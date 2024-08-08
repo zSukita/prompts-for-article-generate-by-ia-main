@@ -47,15 +47,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Java - Orientação a Objetos                                                                                                                                                                                                 |
+| conteúdo | Entendendo a Relação 'IS-A' e 'HAS-A' em Java: Quando Usar Herança ou Composição? |
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• Java
 
 
 
@@ -67,6 +67,20 @@ Lexica.art：
 ## 📚 Materiais
 
 - prompts utilizados
+>Comporte-se como um escritor de artigos tech BackEnd e escreva o Artigo atendendo as regras abaixo
+
+{Regras}
+>No maximo 5 linhas por blocos de explicação
+>Me explique de maneira informal, como se eu fosse um adolecente de 15 anos
+>Os blocos que serão criados estão abaixo:
+
+#Blocos
+- O que são IS-A, cite exemplos com codigo
+- oque são HAS-A,cite exemplos com codigo
+- Quando usar IS-A e HAS-A, cite com exemplos
+-Entendendo a Relação 'IS-A' e 'HAS-A' em Java: Quando Usar Herança ou Composição?
+- Faça um call to action para as minhas redes sociais
+-Coloque 3 hashtags que façam sentido
 
 ## 🛠️ Instruções de execução
 
@@ -94,7 +108,3 @@ felipe-exe">LinkedIn</a>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
